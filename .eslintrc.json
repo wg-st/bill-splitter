@@ -1,0 +1,4 @@
+{
+  "extends": "react-app",
+  "ignorePatterns": ["build/", "dist/", "node_modules/"]
+}
