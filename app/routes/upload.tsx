@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router";
 import { FileUploadCard } from "../components/FileUploadCard";
 import { LoadingSpinner } from "../components/LoadingSpinner";
+import { parseBill } from "~/utils/fileParsing";
 
 export function meta() {
   return [
@@ -14,15 +15,13 @@ export default function Upload() {
   const [isLoading, setIsLoading] = useState(false);
   const navigate = useNavigate();
 
-  const handleFileUpload = (file: File) => {
-    console.log("Uploaded file:", file.name);
+  const handleFileUpload = async (file: File) => {
     setIsLoading(true);
 
-    // Simulate processing for 2 seconds
-    setTimeout(() => {
-      setIsLoading(false);
-      navigate("/bill-splitting");
-    }, 2000);
+    const bill = await parseBill(file);
+
+    setIsLoading(false);
+    navigate("/bill-splitting", { state: { bill } });
   };
 
   if (isLoading) {
