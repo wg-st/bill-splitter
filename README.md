@@ -1,18 +1,19 @@
-# Welcome to React Router!
+# Bill Splitter
 
-A modern, production-ready template for building full-stack React applications using React Router.
+A single page application (SPA) to split grocery shopping bills among friends.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+**Website**: [https://wg-st.github.io/bill-splitter/](https://wg-st.github.io/bill-splitter/)
 
-## Features
+## Toolchain
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- [React](https://react.dev/): (SPA framework)
+- [React Router](https://reactrouter.com/) (library for routing in react)
+- [Vite](https://vite.dev/) (build tool)
+- [Tailwind](https://tailwindcss.com/) (CSS framework)
+- [ESLint](https://eslint.org/) (linter)
+- [Vitest](https://vitest.dev/) (testing framework)
+- [Dependabot](https://github.com/dependabot/dependabot-core) (automatic dependency updates)
+- [CodeQL](https://codeql.github.com/) (code scanning and security analysis)
 
 ## Getting Started
 
@@ -34,54 +35,48 @@ npm run dev
 
 Your application will be available at `http://localhost:5173`.
 
-## Building for Production
+### Testing
 
-Create a production build:
+Run the test suite:
+
+```bash
+npm test
+```
+
+Run tests with interactive UI:
+
+```bash
+npm run test:ui
+```
+
+Generate coverage reports:
+
+```bash
+npm run test:coverage
+```
+
+View test coverage in your browser by opening `coverage/index.html` after running coverage.
+
+### Linting & Type Checking
+
+Check for linting issues:
+
+```bash
+npm run lint
+```
+
+Run TypeScript type checking:
+
+```bash
+npm run typecheck
+```
+
+## Building for Production & Deployment
+
+The app is deployed with a [GitHub Action](.github/workflows/deploy.yml) on pushes to the main branch.
+
+You can also create production builds manually:
 
 ```bash
 npm run build
 ```
-
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
----
-
-Built with ❤️ using React Router.
