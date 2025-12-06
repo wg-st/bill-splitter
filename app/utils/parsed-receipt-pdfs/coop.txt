@@ -1,0 +1,66 @@
+Zurigo
+12:24 	23456 23452345 43563465 345646	01.11.25
+Artikel 	Menge 	Preis 	Aktion 	Total 	Zusatz
+Der Fernseher Model X9Z 	1.0 	2.80 	2.80 	0 	A
+Blue Ceramic Plates Set Large 450M 	2.0 	0.90 	1.80 	0 	A
+Store Brand Energy Beverage 2.0% Sweet 2.0L 	5.0 	1.75 	8.75 	0
+Store Brand Yogurt Alternative 450g 	1.0 	3.40 	3.40 	0
+Alpha Feta Cheese Block Premium 350g 	3.0 	4.95 	14.85 	0
+Store Brand Tomatoes 2kg 	1.0 	1.25 	1.25 	0
+FRESH Peppers bulk 189 	0.73 	0.95 	0.95 	0
+Organic Cabbage fresh bulk 428 	0.709 	3.90 	3.90 	0
+Cucumber green 400g 	2.0 	2.20 	4.40 	0
+Eggplant bulk 315 	0.8 	2.20 	2.20 	0
+Onions yellow Medium 3.0kg 	1.0 	3.20 	3.20 	0
+Store Brand Whole.Oatmeal.fine 600G 	4.0 	0.70 	2.80 	0
+Store Brand Calcium& Min. D Tablets. 25CT 	1.0 	0.80 	0.80 	0
+Baker Cookies 95.5G 	1.0 	1.95 	1.95 	0 	A
+Discount Ceramic Plates 	-0.40
+Voucher Baker 	-1.95
+Voucher Beverage 	-2.80
+Total CHF 	47.90
+CARD 	47.90
+Buchung 	CARD
+XXXXXX*****0000
+22.11.25
+#234234234*000000/000000#
+Total-EFT 	CHF 	47.90
+COOP GENOSSENSCHAFT, CHE-116.311.185 MWST
+GR 	MWST% 	TOTAL 	MWST
+0 	2.60 	47.90 	1.21
+Aktion 	erfasst 	eingelöst
+@ Bon Beverage 	1 	1
+@ Bon Baker 	1 	1
+@ Bon Coffee 	1 	0
+@ Bon Coffee 	1 	0
+@ Bon Tea 	1 	0
+@ Bon Ice Cream 	1 	0
+@ Bon Frozen Vegetables 	1 	0
+@ Bon Chocolate 	1 	0
+@ Bon Chocolate 	1 	0
+@ Bon Vitamin C 	1 	0
+@ Bon Soda 	1 	0
+@ Bon Candy 	1 	0
+
+-- 1 of 2 --
+
+Bern
+12:23 	07234562345263 2345543 23452345 234542	23455.4235.2345
+@ Bon Chocolate Xmas 	1 	0
+@ Bon Frozen Food 	1 	0
+@ Bon Ice Cream 	1 	0
+@ Bon Energy Drink 	1 	0
+@ Bon Store Juices 	1 	0
+@ Bon Chocolate Xmas 	1 	0
+@ Bon Mexican Food 	1 	0
+SUPERCARD NR.: 0000*****0000
+ALTER PUNKTESTAND 	SALDO 	234
+SUB-/TOTAL EXCL* 	234
+SUPERPUNKTE AUS EINKAUF 	234
+NEUER PUNKTESTAND 	SALDO 	234
+Vielen Dank für Ihren Einkauf
+23452346236362346362346234523536
+234.234.234 	234:234 	2362345 2435423562 234 623465362
+
+-- 2 of 2 --
+
