@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Der Fernseher Model X9Z",
+    "price": 2.8
+  },
+  {
+    "name": "Blue Ceramic Plates Set Large 450M",
+    "price": 1.8
+  },
+  {
+    "name": "Store Brand Energy Beverage 2.0% Sweet 2.0L",
+    "price": 8.75
+  },
+  {
+    "name": "Store Brand Yogurt Alternative 450g",
+    "price": 3.4
+  },
+  {
+    "name": "Alpha Feta Cheese Block Premium 350g",
+    "price": 14.85
+  },
+  {
+    "name": "Store Brand Tomatoes 2kg",
+    "price": 1.25
+  },
+  {
+    "name": "FRESH Peppers bulk 189",
+    "price": 0.95
+  },
+  {
+    "name": "Organic Cabbage fresh bulk 428",
+    "price": 3.9
+  },
+  {
+    "name": "Cucumber green 400g",
+    "price": 4.4
+  },
+  {
+    "name": "Eggplant bulk 315",
+    "price": 2.2
+  },
+  {
+    "name": "Onions yellow Medium 3.0kg",
+    "price": 3.2
+  },
+  {
+    "name": "Store Brand Whole.Oatmeal.fine 600G",
+    "price": 2.8
+  },
+  {
+    "name": "Store Brand Calcium& Min. D Tablets. 25CT",
+    "price": 0.8
+  },
+  {
+    "name": "Baker Cookies 95.5G",
+    "price": 1.95
+  },
+  {
+    "name": "Discount Ceramic Plates",
+    "price": -0.4
+  },
+  {
+    "name": "Voucher Baker",
+    "price": -1.95
+  },
+  {
+    "name": "Voucher Beverage",
+    "price": -2.8
+  }
+]

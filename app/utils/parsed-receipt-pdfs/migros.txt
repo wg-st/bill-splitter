@@ -1,0 +1,82 @@
+GENOSSENSCHAFT MIGROS ASDF
+MM asdf
+Artikelbezeichnung Menge Preis Gespart Total #
+Purple Widget 1 1.90 1.90 1
+Blue Gizmo 1 1.20 1.20 1
+Yellow Sphere 0.740 2.50 1.85 1
+Green Orb 4 1.60 2.00 4.40 1
+Red Cylinder 1 1.10 1.10 1
+White Powder 1 0.55 0.55 1
+Black Box 1 1.40 1.40 1
+Silver Tube 1 1.80 1.80 1
+Gold Flake 0.077 5.85 0.45 1
+Clear Liquid 2 3.95 7.90 1
+Thick Paste 3 1.60 4.80 1
+Solid Block 250g 1 3.85 3.85 1
+Long Strip 0.295 2.20 0.65 1
+Round Ball 0.273 2.20 0.60 1
+Small Dots 63g+ 1 6.90 6.90 1
+White Cube 2 2.25 4.50 1
+Thin Slice 1 4.55 4.55 1
+Brown Loaf 1 2.60 2.60 1
+Dark Loaf 1 3.40 3.40 1
+Tiny Seeds 3 1.20 3.60 1
+Popped Kernels 1 1.25 1.25 1
+Spiky Fruit 2 2.95 5.90 1
+Yellow Wedge 250g 3 4.80 14.40 1
+Twisted Noodle 500g 3 2.50 7.50 1
+Curved Shell 500g 3 2.50 7.50 1
+Mixed Grains 2 1.95 3.90 1
+Fine Powder 1 1.95 1.95 1
+Crushed Pieces 800g 2 2.10 4.20 1
+Dried Pods 1 1.95 1.95 1
+Herb Blend 30g 2 1.10 2.20 1
+Flat Circle 1 2.10 2.10 1
+Free Wrap 2 5.95 11.90 1
+Flaky Sheet 1 4.95 4.95 1
+Frozen Dots 1 5.00 5.00 1
+Purple Fruit 2 3.30 6.60 1
+Paper Roll 1 3.30 3.30 2
+Twisted Cord 100m 1 1.75 1.75 2
+Blue Solution 1 2.00 2.00 2
+Soft Foam 1 2.50 2.50 2
+Citrus Bottle 1L 1 0.75 0.75 2
+Fresh Bar 1 1.80 1.80 2
+Cream Jar 1 4.95 4.95 2
+Leather Pair 1 14.95 14.95 2
+Orange Fruit 1 2.40 2.40 1
+White Spread 1 2.80 2.80 1
+Ground Mix 1 4.50 4.50 1
+Firm Block 2 1.55 3.10 1
+--------------------------------------------------------
+Sie sparen total 2.00
+Total CHF 184.10
+Card 184.10
+--------------------------------------------------------
+BUCHUNG Card
+XXXXXXXXXXXX0000
+234.345.3453645 234:234
+#31400000*00000000/000000/NA#
+Total EFT CHF: 184.10
+--------------------------------------------------------
+Cumulus-Nummer 0000.000.000.000
+Punktestand per 234.43.234 234.00
+Erhaltene Punkte 234.234
+--------------------------------------------------------
+# MWST.-Nummer CHE-234.234.234 MWST
+
+-- 1 of 2 --
+
+Gr Satz Total MWST
+1 2.60 % 152.10 3.85
+2 8.10 % 32.00 2.40
+--------------------------------------------------------
+Besten Dank für Ihren Einkauf!
+345634564365425643564365
+Filiale Bed. KNr Bon Datum Zeit
+345 2345 252344231 234423 45.45.3453 45:54:45 C
+Bei inhaltlichen Abweichungen zwischen diesem Dokument und den Migros
+internen Belegen sind letztere massgebend.
+
+-- 2 of 2 --
+

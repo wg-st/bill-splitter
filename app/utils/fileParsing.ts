@@ -17,7 +17,7 @@ export const parseBill = async (file: File): Promise<Bill> => {
   return { items };
 };
 
-const extractBillItems = (text: string): BillItem[] => {
+export const extractBillItems = (text: string): BillItem[] => {
   const lines = text.split('\n');
   const items: BillItem[] = [];
   
