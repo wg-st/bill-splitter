@@ -23,5 +23,16 @@ export default defineConfig([
                 version: "detect"
             }
         }
+    },
+    {
+        files: ["scripts/**/*.js"],
+        languageOptions: {
+            globals: {
+                process: "readonly",
+                console: "readonly",
+                __dirname: "readonly",
+                __filename: "readonly"
+            }
+        }
     }
 ]);
