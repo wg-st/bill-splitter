@@ -1,12 +1,12 @@
 import { readFileSync, writeFileSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { extractBillItems } from '../app/utils/fileParsing';
+import { extractBillItems } from '../app/utils/fileParsing.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const parsedPdfTextDir = join(__dirname, '../app/utils/parsed-pdf-text');
+const parsedPdfTextDir = join(__dirname, '../app/utils/parsed-receipt-pdfs');
 const files = readdirSync(parsedPdfTextDir).filter(f => f.endsWith('.txt'));
 
 files.forEach(filename => {
