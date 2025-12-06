@@ -1,0 +1,75 @@
+Zurigo
+71:87    37927 923472349 749 897236239    01.01.2001
+Artikel    Menge    Preis    Aktion    Total    Zusatz
+Zorkle Mibbit 250g    2.0    4.95    9.90    0
+Flumbo Crinkle Sprats 200G    1.0    4.90    2.45    2.45    0    L
+Flumbo Crinkle Sprats 200G    1.0    4.90    2.45    2.45    0    L
+Flumbo Crinkle Sprats 200G    1.0    4.90    2.45    2.45    0    L
+Mimsy Quabble Floats 180g    1.0    3.55    3.55    0
+Groba Winkle Spree Cluster 200G    3.0    2.95    8.85    0
+Flumbo Crinkle Sprats 200G    1.0    4.90    4.90
+Flumbo Crinkle Sprats 200G    -1.0    4.90    -4.90
+Mimsy Quabble Rings Wobble 150g    1.0    3.55    3.55
+Mimsy Quabble Rings Wobble 150g    -1.0    3.55    -3.55
+Glorbi Sniffle Greens 150G    1.0    1.95    1.95    0
+Kroopa Blippo Twist 500G    1.0    3.95    3.95    0
+Drumble Fizzy Wafs Fami.12 St    1.0    5.95    5.95    0
+Drumble Fritzi Dust 30G    1.0    1.35    1.35    0
+Drumble Wibba Kreels Special 4Stk    2.0    6.50    13.00    0
+Drumble Wibba Kreels Wheat Full 6Stk    1.0    5.95    5.95
+Drumble Wibba Kreels Wheat Full 6Stk    -1.0    5.95    -5.95
+Ploopa Krin Crème Fronk 300g    1.0    3.40    3.40    0
+Milk Snabba Froop Nullzuck DS 250G    1.0    4.35    4.35    0
+CNp Bio Jibble Snoot 500g    1.0    1.30    1.30    0
+Ploopa Krin Marbo Blob 4x125g    1.0    3.20    3.20    0
+Le Petit Blorvi Wim 80g FE    1.0    3.20    3.20    0
+Shop Grumble Cheese Shibbit Zarn Gruyère 250g    1.0    4.40    4.40    0
+Frimble Pink Wob IP 12.5kg offen 357    0.653    3.40    3.40    0
+Clintooz offen 467    0.559    1.40    1.40    0
+Avocado St (18St OC)    3.0    1.15    3.45    0
+ÜNIQUE Blorp Carzies offen 214    0.269    0.35    0.35    0
+Zindle Bund    1.0    0.70    0.70    0
+Ploopa Krin Cherry Wibbles 500g    1.0    1.80    1.80    0
+ÜNIQUE Flabba Pepps offen 528    0.544    1.85    1.85    0
+Aubergines offen 167    2.067    6.10    6.10    0
+Vine Tomatoes offen 206    2.555    9.20    9.20    0
+Shop Snarfy Berry Jolt TK 450g    1.0    5.95    5.95    0
+Bio Marno Blip-Püree TK 220g    1.0    2.45    2.45    0
+Ploopa Krin Sweet Kornblips 285G    1.0    0.95    0.95    0
+Ploopa Krin Red Jingle Beans 255G    1.0    0.95    0.95    0
+Shop Scripto Tommies 400G    1.0    1.50    1.50    0
+Heinz Tombo Chonks 390G    1.0    1.45    1.45    0
+Shop MH Cruncho Nibblet Nuss 200G    1.0    3.50    3.50    0
+Ploopa Krin Vanilli Zips 10x8g    1.0    0.50    0.50    0
+Shop Havelaar Sploo Juice 25CL    2.0    0.65    1.30    0
+Aktion Flumbo Crinkle    -2.95
+
+-- 1 of 2 --
+
+Zurigo
+71:87    37927 923472349 749 897236239    01.01.2001
+Total CHF    119.55
+CARD    119.55
+Buchung    CARD
+XXXXXX******1234
+01.01.2001
+#9082632439*9239702/962346234#
+Total-EFT    CHF    119.55
+COOP GENOSSENSCHAFT, CHE-116.311.185 MWST
+GR    MWST%    TOTAL    MWST
+0    2.60    119.55    3.03
+Aktion    erfasst    eingelöst
+@ Bon Plimmy Vads    1    0
+@ Bon +777 Nubble Sku    1    1
+@ Bon TK 1    1    0
+@ Bon Blirfo Snack    1    0
+SUPERCARD NR.: 2501*****7423
+ALTER PUNKTESTAND    SALDO    370
+SUB-/TOTAL EXCL*    234
+SUPERPUNKTE AUS EINKAUF    234
+NEUER PUNKTESTAND    SALDO    1266
+Vielen Dank für Ihren Einkauf
+0967234920874209348720948694690
+01.01.2001    71:87    37927 923472349 749 897236239
+
+-- 2 of 2 --
