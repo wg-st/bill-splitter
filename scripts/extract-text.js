@@ -8,7 +8,7 @@ async function run() {
     const pdfPath = process.argv[2];
 
     if (!pdfPath) {
-        console.error('Usage: node main.js <path-to-pdf>');
+        console.error('Usage: node <path-to-script> <path-to-pdf>');
         process.exit(1);
     }
 
