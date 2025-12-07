@@ -64,7 +64,7 @@ const parseItemLine = (line: string): BillItem | null => {
     }
   }
   
-  if (!name || totalPrice === 0) {
+  if (!name || totalPrice === 0 || !/[a-zA-Z]/.test(name)) {
     return null;
   }
   
