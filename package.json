@@ -14,7 +14,7 @@
     "generate-solutions": "tsx scripts/generate-file-parsing-solutions.ts"
   },
   "dependencies": {
-    "@react-router/node": "^7.9.2",
+    "@react-router/node": "^7.10.1",
     "@react-router/serve": "^7.9.2",
     "isbot": "^5.1.31",
     "pdf-parse": "^2.4.5",
