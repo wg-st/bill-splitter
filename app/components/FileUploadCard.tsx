@@ -95,7 +95,7 @@ export function FileUploadCard({ onFileUpload }: FileUploadCardProps) {
         </p>
 
         <p className="text-sm text-gray-500 dark:text-gray-500">
-          Supports: Coop bills (PDF)
+          Supports: Coop bills (PDF), Migros bills (PDF)
         </p>
       </div>
     </div>
