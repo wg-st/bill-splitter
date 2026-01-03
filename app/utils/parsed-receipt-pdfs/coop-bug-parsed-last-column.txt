@@ -1,0 +1,40 @@
+Zürich
+12:26 	982734 29837423497 234 234234	01.01.2026
+Artikel 	Menge 	Preis 	Aktion 	Total 	Zusatz
+Karte Fr. 7.80 CHF 	1.0 	7.80 	7.80 	1
+Karte Fr. 7.80 CHF 	1.0 	7.80 	7.80 	1
+Karte Fr. 7.80 CHF 	1.0 	7.80 	7.80 	1
+Karte Fr. 7.80 CHF 	1.0 	7.80 	7.80 	1
+Karte Fr. 7.80 CHF 	1.0 	7.80 	7.80 	1
+Total CHF 	39.00
+CARD 	39.00
+Buchung 	CARD
+XXXXXX*****2134
+01.01.2026
+#234342342*2342344/23423434#
+Total-EFT 	CHF 	39.00
+COOP GENOSSENSCHAFT, CHE-116.311.185 MWST
+GR 	MWST% 	TOTAL 	MWST
+1 	8.10 	39.00 	2.92
+Aktion 	erfasst 	eingelöst
+@ Bon TK 2 	1 	0
+@ Bon Weihnachtsdeko 	1 	0
+@ Bon Petit Beurre 	1 	0
+@ Bon Salat 	1 	0
+@ Bon Jogurt 	1 	0
+@ Bon +777 SuPu 	1 	0
+@ Bon Cailler Xmas 	1 	0
+@ Bon Betty Bossi 	1 	0
+@ Bon Cailler Xmas 	1 	0
+@ Bon Minor Crunchy 	1 	0
+SUPERCARD NR.: 2343*****2343
+ALTER PUNKTESTAND 	SALDO 	839
+SUB-/TOTAL EXCL* 	39
+SUPERPUNKTE AUS EINKAUF 	39
+NEUER PUNKTESTAND 	SALDO 	878
+Vielen Dank für Ihren Einkauf
+2342342342342323423423423423424
+01.01.2026 	12:26 	982734 29837423497 021 234234
+
+-- 1 of 1 --
+
