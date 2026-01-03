@@ -1,1 +1,190 @@
-[]
+[
+  {
+    "name": "Purple Widget",
+    "price": 1.9
+  },
+  {
+    "name": "Blue Gizmo",
+    "price": 1.2
+  },
+  {
+    "name": "Yellow Sphere",
+    "price": 1.85
+  },
+  {
+    "name": "Green Orb",
+    "price": 4.4
+  },
+  {
+    "name": "Red Cylinder",
+    "price": 1.1
+  },
+  {
+    "name": "White Powder",
+    "price": 0.55
+  },
+  {
+    "name": "Black Box",
+    "price": 1.4
+  },
+  {
+    "name": "Silver Tube",
+    "price": 1.8
+  },
+  {
+    "name": "Gold Flake",
+    "price": 0.45
+  },
+  {
+    "name": "Clear Liquid",
+    "price": 7.9
+  },
+  {
+    "name": "Thick Paste",
+    "price": 4.8
+  },
+  {
+    "name": "Solid Block 250g",
+    "price": 3.85
+  },
+  {
+    "name": "Long Strip",
+    "price": 0.65
+  },
+  {
+    "name": "Round Ball",
+    "price": 0.6
+  },
+  {
+    "name": "Small Dots 63g+",
+    "price": 6.9
+  },
+  {
+    "name": "White Cube",
+    "price": 4.5
+  },
+  {
+    "name": "Thin Slice",
+    "price": 4.55
+  },
+  {
+    "name": "Brown Loaf",
+    "price": 2.6
+  },
+  {
+    "name": "Dark Loaf",
+    "price": 3.4
+  },
+  {
+    "name": "Tiny Seeds",
+    "price": 3.6
+  },
+  {
+    "name": "Popped Kernels",
+    "price": 1.25
+  },
+  {
+    "name": "Spiky Fruit",
+    "price": 5.9
+  },
+  {
+    "name": "Yellow Wedge 250g",
+    "price": 14.4
+  },
+  {
+    "name": "Twisted Noodle 500g",
+    "price": 7.5
+  },
+  {
+    "name": "Curved Shell 500g",
+    "price": 7.5
+  },
+  {
+    "name": "Mixed Grains",
+    "price": 3.9
+  },
+  {
+    "name": "Fine Powder",
+    "price": 1.95
+  },
+  {
+    "name": "Crushed Pieces 800g",
+    "price": 4.2
+  },
+  {
+    "name": "Dried Pods",
+    "price": 1.95
+  },
+  {
+    "name": "Herb Blend 30g",
+    "price": 2.2
+  },
+  {
+    "name": "Flat Circle",
+    "price": 2.1
+  },
+  {
+    "name": "Free Wrap",
+    "price": 11.9
+  },
+  {
+    "name": "Flaky Sheet",
+    "price": 4.95
+  },
+  {
+    "name": "Frozen Dots",
+    "price": 5.0
+  },
+  {
+    "name": "Purple Fruit",
+    "price": 6.6
+  },
+  {
+    "name": "Paper Roll",
+    "price": 3.3
+  },
+  {
+    "name": "Twisted Cord 100m",
+    "price": 1.75
+  },
+  {
+    "name": "Blue Solution",
+    "price": 2.0
+  },
+  {
+    "name": "Soft Foam",
+    "price": 2.5
+  },
+  {
+    "name": "Citrus Bottle 1L",
+    "price": 0.75
+  },
+  {
+    "name": "Fresh Bar",
+    "price": 1.8
+  },
+  {
+    "name": "Cream Jar",
+    "price": 4.95
+  },
+  {
+    "name": "Leather Pair",
+    "price": 14.95
+  },
+  {
+    "name": "Orange Fruit",
+    "price": 2.4
+  },
+  {
+    "name": "White Spread",
+    "price": 2.8
+  },
+  {
+    "name": "Ground Mix",
+    "price": 4.5
+  },
+  {
+    "name": "Firm Block",
+    "price": 3.1
+  }
+]
