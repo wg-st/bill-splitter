@@ -6,6 +6,7 @@ const articleHeader = "Artikel";
 const quantityHeader = "Menge";
 const priceHeader = "Preis";
 const totalKey = "Total CHF";
+const minimumPriceLength = 3;
 
 export class CoopParser extends BaseParser implements Parser {
   isType(): boolean {
@@ -57,7 +58,7 @@ export class CoopParser extends BaseParser implements Parser {
     for (let i = parts.length - 1; i > 0; i--) {
       const part = parts[i];
       const parsed = parseFloat(part);
-      if (!isNaN(parsed) && parsed !== 0) {
+      if (!isNaN(parsed) && parsed !== 0 && part.length > minimumPriceLength) {
         totalPrice = parsed;
         break;
       }
