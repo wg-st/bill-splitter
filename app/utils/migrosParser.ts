@@ -25,7 +25,13 @@ export class MigrosParser extends BaseParser implements Parser {
         continue;
       }
 
-      if (trimmed.startsWith(separatorLine) || trimmed.startsWith(totalKey)) {
+      if (
+        trimmed.startsWith(separatorLine) ||
+        trimmed.startsWith(totalKey) ||
+        trimmed.toLowerCase().includes("cumulus") ||
+        trimmed.toLowerCase().includes("zwischentotal") ||
+        trimmed.toLowerCase().includes("subtotal")
+      ) {
         break;
       }
 
@@ -43,6 +49,15 @@ export class MigrosParser extends BaseParser implements Parser {
   };
 
   private parseItemLine = (line: string): BillItem | null => {
+    // Skip summary lines
+    if (
+      line.toLowerCase().includes("zwischentotal") ||
+      line.toLowerCase().includes("rabatt") ||
+      line.toLowerCase().includes("subtotal")
+    ) {
+      return null;
+    }
+
     const parts = line
       .split(/\s+/)
       .map((p) => p.trim())
