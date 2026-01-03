@@ -4,7 +4,7 @@ import type { BillItem } from "~/types/bill";
 
 export class MigrosParser extends BaseParser implements Parser {
   isType(): boolean {
-    return true;
+    return this.text.toLowerCase().includes("migros");
   }
 
   extractBillItems = (): BillItem[] => {

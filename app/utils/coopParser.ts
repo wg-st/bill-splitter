@@ -10,7 +10,7 @@ const minimumPriceLength = 3;
 
 export class CoopParser extends BaseParser implements Parser {
   isType(): boolean {
-    return true;
+    return this.text.toLowerCase().includes("coop");
   }
 
   extractBillItems = (): BillItem[] => {
