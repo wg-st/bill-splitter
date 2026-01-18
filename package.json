@@ -37,8 +37,8 @@
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.2",
-    "@vitest/coverage-v8": "^4.0.16",
-    "@vitest/ui": "^4.0.13",
+    "@vitest/coverage-v8": "^4.0.17",
+    "@vitest/ui": "^4.0.17",
     "eslint": "^9.39.1",
     "eslint-plugin-react": "^7.37.5",
     "jsdom": "^27.4.0",
@@ -47,6 +47,6 @@
     "typescript": "^5.9.2",
     "vite": "^7.2.7",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^4.0.15"
+    "vitest": "^4.0.17"
   }
 }
