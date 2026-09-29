@@ -1,27 +1,10 @@
 import { describe, it, expect } from "vitest";
 import { readFileSync, readdirSync } from "fs";
 import { join } from "path";
-import { CoopParser } from "./coopParser";
-import { MigrosParser } from "./migrosParser";
+import { parserRegistry, getParserTypeFromFilename } from "./parserRegistry";
 import type { BillItem } from "~/types/bill";
-import type { Parser } from "~/types/parser";
 
 const parsedPdfTextDir = join(__dirname, "parsed-receipt-pdfs");
-
-const parserRegistry: Record<string, new (text: string) => Parser> = {
-  coop: CoopParser,
-  migros: MigrosParser,
-};
-
-const getParserTypeFromFilename = (filename: string): string => {
-  const lowerFilename = filename.toLowerCase();
-  for (const prefix of Object.keys(parserRegistry)) {
-    if (lowerFilename.startsWith(prefix)) {
-      return prefix;
-    }
-  }
-  throw new Error(`No parser found for filename: ${filename}`);
-};
 
 describe("Bill parsing", () => {
   const files = readdirSync(parsedPdfTextDir).filter((f) => f.endsWith(".txt"));

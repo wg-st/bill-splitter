@@ -14,13 +14,13 @@
     "generate-solutions": "tsx scripts/generate-file-parsing-solutions.ts"
   },
   "dependencies": {
-    "@react-router/node": "^7.10.1",
-    "@react-router/serve": "^7.10.1",
+    "@react-router/node": "^7.18.4",
+    "@react-router/serve": "^7.18.4",
     "isbot": "^5.1.35",
     "pdf-parse": "^2.4.5",
     "react": "^19.1.1",
     "react-dom": "^19.2.6",
-    "react-router": "^7.10.1"
+    "react-router": "^7.18.4"
   },
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.28.6",
@@ -28,7 +28,7 @@
     "@eslint/compat": "^2.0.3",
     "@eslint/eslintrc": "^3.3.3",
     "@eslint/js": "^9.39.2",
-    "@react-router/dev": "^7.13.1",
+    "@react-router/dev": "^7.18.4",
     "@tailwindcss/vite": "^4.2.2",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
@@ -44,7 +44,7 @@
     "jsdom": "^28.1.0",
     "tailwindcss": "^4.1.13",
     "tsx": "^4.22.2",
-    "typescript": "^5.9.2",
+    "typescript": "^6.0.3",
     "vite": "^7.3.2",
     "vite-tsconfig-paths": "^6.1.1",
     "vitest": "^4.1.4"
