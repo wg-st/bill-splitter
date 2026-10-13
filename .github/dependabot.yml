@@ -9,3 +9,11 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+    groups:
+      # @react-router/* pin react-router as an exact peer, so bumping any one
+      # of them alone fails to resolve and npm --force loops until the job
+      # times out. Always update the family together.
+      react-router:
+        patterns:
+          - "react-router"
+          - "@react-router/*"
